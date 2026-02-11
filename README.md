@@ -13,9 +13,6 @@ Tecnologias que estou aprendendo:
   <img src="https://skillicons.dev/icons?i=java,c,git,github,html,css,js" />
 </p>
 
-- Java
-- Programação Orientada a Objetos
-- 
 📚 Atualmente estudando:
 
 
