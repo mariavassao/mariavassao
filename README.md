@@ -13,9 +13,9 @@ Tecnologias que estou aprendendo:
   <img src="https://skillicons.dev/icons?i=java,c,git,github,html,css,js" />
 </p>
 
-#📚 Atualmente estudando:
+# 📚 Atualmente estudando:
 
-#CONTATOS
+# CONTATOS
 <p align="left">
   <a href="www.linkedin.com/in/maria-eduarda-vassão-15a71a365" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
