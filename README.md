@@ -23,9 +23,6 @@ CONTATOS
   <a href="https://www.instagram.com/vs.kkx/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.facebook.com/mariaeduarda.vassaosoares" target="_blank">
-   <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
 
