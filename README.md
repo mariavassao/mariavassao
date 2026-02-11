@@ -10,7 +10,7 @@ Busco minha primeira oportunidade na área de desenvolvimento para aplicar meus 
 
 Tecnologias que estou aprendendo:
 
-## 🚀 Tecnologias
+                                                         🚀 Tecnologias
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,git,github,html,css" />
 </p>
