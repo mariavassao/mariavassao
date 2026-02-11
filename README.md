@@ -15,4 +15,18 @@ Tecnologias que estou aprendendo:
 
 📚 Atualmente estudando:
 
+CONTATOS
+<p align="left">
+  <a href="www.linkedin.com/in/maria-eduarda-vassão-15a71a365" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/vs.kkx/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.facebook.com/mariaeduarda.vassaosoares" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+
 
