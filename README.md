@@ -9,9 +9,7 @@ Possuo grande interesse em arquitetura de software, boas práticas de código, o
 Busco minha primeira oportunidade na área de desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir ativamente para o crescimento da equipe e da empresa.
 
 Tecnologias que estou aprendendo:
-
-                                                         🚀 Tecnologias
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=java,c,git,github,html,css" />
 </p>
 
