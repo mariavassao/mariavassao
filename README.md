@@ -13,7 +13,6 @@ Tecnologias que estou aprendendo:
   <img src="https://skillicons.dev/icons?i=java,c,git,github,html,css,js" />
 </p>
 
-# 📚 Atualmente estudando:
 
 # CONTATOS
 <p align="left">
